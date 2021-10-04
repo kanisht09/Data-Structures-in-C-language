@@ -1,0 +1,25 @@
+Enter the number of distinct characters : 
+
+ 0
+a 5
+
+ 5
+b 9
+
+ 9
+c 12
+
+ 9
+a 5
+b 9
+c 12
+
+No of bits required before compression : 
+149
+a : 00
+
+ : 01
+b : 10
+c : 11
+No of bits required after compression : 
+110
