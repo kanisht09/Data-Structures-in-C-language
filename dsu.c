@@ -6,21 +6,7 @@ typedef struct pair
     int ff, ss;
 } pair;
 
-/*
 
-
-In C
-
-1. queue
-2. stack
-3. graph (u-v, u-v,wt)
-4. dfs
-5. bfs
-6. DSU
-
-
-
-*/
 int par[1001];
 int R[1001];
 pair edges[10000005];
